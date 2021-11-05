@@ -6,3 +6,4 @@ Goal: to reveal relation between crop production parameters: overall yield, prod
 
 Input data: yield 
 Output: price
+Extend features to five most produced crops.
